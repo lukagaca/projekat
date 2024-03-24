@@ -1,0 +1,9 @@
+i {
+    position: relative;
+    bottom: .2rem;
+    right: .3rem;
+}
+.topBtn {
+    opacity: 0;
+    transition: .5s all ease !important;
+}
